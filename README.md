@@ -1,5 +1,5 @@
-# git7M3.0
-启蒙上位机3.0版(多线程画图测试版)（账户：拆患 密码：1，该账号和密码兼容启蒙上位机的前几代版本）
+# git7M2.0
+启蒙上位机2.0（新增了隐藏接收，防止输出空行的功能）现已更新为2.5版
 <br>
 
 ![BJK_logo icon](https://github.com/bjk12/LittleBird_TypeExercise/blob/main/bjk1.ico)  
@@ -26,12 +26,12 @@
 &#8195;&#8195;**预约开启**是指用户可以使用键盘输入设置开启和关闭串口的时间，软件会在预设的开始时刻打开串口，会在预设的结束时刻关闭串口。<br>
 &#8195;&#8195;这三种高级功能减少了用户调试串口时的工作量，使得电脑与单片机之间的串口通信在无人监管时仍可以安全运行。<br>
 
-&#8195;&#8195;启蒙上位机3.0版在保留上述功能的基础上，又新增了 **隐藏接收** 和 **数据实时可视化** 的功能。<br>
+&#8195;&#8195;启蒙上位机2.0版在保留上述功能的基础上，又新增了 **隐藏接收** 和 **防止输出空行** 的功能。<br>
 
 **No picture,No truth:**<br>
-3.0版截图：<br>
+2.0版截图：<br>
 <div align=center><img src="https://github.com/bjk12/git7M3.0/blob/main/pic4_readme/image019.png" alt="pic4_readme"/></div>
-
+<br>
 1.0版截图：<br>
 <div align=center><img src="https://github.com/bjk12/git7M3.0/blob/main/pic4_readme/image019.png" alt="pic4_readme"/></div>
 <br>
