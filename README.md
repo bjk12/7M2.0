@@ -29,6 +29,7 @@
 &#8195;&#8195;启蒙上位机2.0版在保留上述功能的基础上，又新增了 **隐藏接收** 和 **防止输出空行** 的功能。<br>
 
 **No picture,No truth:**<br>
+
 2.0版截图：<br>
 <div align=center><img src="https://github.com/bjk12/git7M3.0/blob/main/pic4_readme/image2v0.png" alt="pic4_readme"/></div><br>
 
